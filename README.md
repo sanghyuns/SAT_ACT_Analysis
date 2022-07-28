@@ -74,9 +74,9 @@ For all projects, students will be evaluated on a simple 4 point scale (0, 1, 2,
 
 This is a learning environment and you are encouraged to try new things, even if they don't work out as well as you planned! While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
 
-[data]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/Data
-[deliverables]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/Deliverables
-[rubric]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/Rubric
-[presentation]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/Presentation
-[ps]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/Problem-Statement
-[background]: https://git.generalassemb.ly/DSIR-425/project_1/wiki/SAT-ACT-background
+[data]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/Data
+[deliverables]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/Deliverables
+[rubric]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/Rubric
+[presentation]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/Presentation
+[ps]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/Problem-Statement
+[background]: https://git.generalassemb.ly/dsi-delta/project_1/wiki/SAT-ACT-background
